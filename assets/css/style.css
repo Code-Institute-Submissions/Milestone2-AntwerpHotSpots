@@ -16,7 +16,7 @@ h3,
 h4,
 h5 {
     font-family: "Karla", sans-serif;
-    color: #000000;
+    color: #000;
 }
 
 /* ----------------------------- Logo ----------------------------- */
@@ -37,3 +37,35 @@ img {
     height: 50px;
 }
 
+/* ----------------------------- Buttons ----------------------------- */
+
+.btn-primary {
+    background-color: #e98074;
+    width: 160px;
+    height: 58px;
+    border: none;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    display: block;
+    text-align: left;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background-color: #D8C3A5;
+}
+
+.btn-icons {
+  font-size: 20px;
+  text-align: left;
+}
+
+/* ----------------------------- Footer ----------------------------- */
+
+footer {
+    background-color: #D8C3A5;
+    text-align: center;
+    margin-top: 40px;
+}
