@@ -15,14 +15,24 @@ h2,
 h3,
 h4,
 h5 {
+    margin: 0;
     font-family: "Karla", sans-serif;
     color: #000;
+}
+
+.general-sub {
+    padding-top: 10px;
+
+}
+
+.inline-block {
+    display: inline-block;
 }
 
 /* ----------------------------- Logo ----------------------------- */
 
 .container-fluid {
-    margin: 0;
+    margin-top: 10px;
     padding: 0;
 }
 
@@ -68,4 +78,15 @@ footer {
     background-color: #D8C3A5;
     text-align: center;
     margin-top: 40px;
+}
+
+.footer-body {
+    color: #000;
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.footer-icons {
+    padding-top: 10px;
+    font-size: 20px;
 }
