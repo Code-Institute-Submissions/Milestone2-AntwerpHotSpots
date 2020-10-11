@@ -29,10 +29,24 @@ h5 {
     display: inline-block;
 }
 
+.row-table {
+    display: table;
+}
+
+.section-column {
+    display: table-cell;
+    padding: 0 30px 30px;
+    float: none;
+}
+
+.section-heading {
+    margin-bottom: 20px;
+}
+
 /* ----------------------------- Logo ----------------------------- */
 
 .container-fluid {
-    margin-top: 10px;
+    margin: 0;
     padding: 0;
 }
 
@@ -40,6 +54,7 @@ header {
     background-color: #D8C3A5;
     text-align: center;
     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 img {
@@ -71,6 +86,12 @@ img {
   font-size: 20px;
   text-align: left;
 }
+
+/* ----------------------------- Categories ----------------------------- */
+
+.bg-categories {
+}
+
 
 /* ----------------------------- Footer ----------------------------- */
 
