@@ -40,7 +40,8 @@ h5 {
 }
 
 .section-heading {
-    margin-bottom: 20px;
+    margin-bottom: 30px;
+    margin-top: 30px;
 }
 
 /* ----------------------------- Logo ----------------------------- */
@@ -60,6 +61,59 @@ header {
 img {
     width: 50px;
     height: 50px;
+}
+
+/*--------------------- Intro Section ---------------------*/
+
+.section-intro {
+    margin-top: 40px;
+    margin-bottom: 40px;
+    font-size: 24px;
+
+}
+
+/*--------------------- Containers ---------------------*/
+
+.container-callout {
+  height: 50vh;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+
+.container-callout,
+.parallax {
+  background-image: url("../images/banner_image.jpg");
+  background-attachment: fixed;
+  background-position: bottom right;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -moz-background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  
+}
+
+.opaque-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(0, 0, 0, 0.6);
+}
+
+/*--------------------- Jumbotron ---------------------*/
+
+.jumbotron {
+  background-color: transparent;
+}
+
+.jumbotron-header {
+    color: #fafafa;
+    font-size: 50px;
 }
 
 /* ----------------------------- Buttons ----------------------------- */
