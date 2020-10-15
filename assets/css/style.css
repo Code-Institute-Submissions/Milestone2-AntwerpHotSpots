@@ -4,7 +4,7 @@ body {
   font-family: "Montserrat", sans-serif;
   font-weight: 300;
   font-size: 14px;
-  color: #8e8d8a;
+  color: #000;
   background-color: #eae7dc;
 }
 
@@ -92,6 +92,7 @@ img {
   margin-top: 40px;
   margin-bottom: 40px;
   font-size: 20px;
+  text-align: center;
 }
 
 /*--------------------- Callout ---------------------*/
