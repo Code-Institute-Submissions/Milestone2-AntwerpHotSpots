@@ -10,5 +10,8 @@ https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+IFD101+2017_T3
 flaticon attribute:
 <div>Icons made by <a href="https://www.flaticon.local/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.local/" title="Flaticon">www.flaticon.local</a></div>
 
-custom map markers:
+custom map markers & info window:
 https://www.youtube.com/watch?v=Xptz0GQ2DO4 
+
+modal:
+https://www.w3schools.com/howto/howto_css_modals.asp
