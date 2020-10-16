@@ -5,70 +5,9 @@ var centerCords = {
   lng: 4.402464,
 };
 
-function initMap() {
-  map = new google.maps.Map(document.getElementById("map"), {
-    zoom: 14,
-    center: centerCords,
-  });
-  addMarkerInfo();
-}
+let markers = [];
 
-function addMarkerInfo() {
-  for (var i = 0; i < markersOnMap.length; i++) {
-    var contentString = "<h5>" + markersOnMap[i].placeName + "</h5>";
-
-    const marker = new google.maps.Marker({
-      position: markersOnMap[i].LatLng[0],
-      icon: icons[markersOnMap[i].type].icon,
-      map: map,
-    });
-
-    const infowindow = new google.maps.InfoWindow({
-      content: contentString,
-    });
-
-    marker.addListener("click", () => {
-      closeInfoWindow();
-      infowindow.open(marker.get("map"), marker);
-      infoObj[0] = infowindow;
-    });
-  }
-}
-
-function closeInfoWindow() {
-  if (infoObj.length > 0) {
-    infoObj[0].set("marker", null);
-    infoObj[0].close();
-    infoObj[0].length = 0;
-  }
-}
-
-//Map Icons
-
-var icons = {
-  single: {
-    icon: "/assets/images/mapIcons/map_marker_single.png",
-  },
-  birthday: {
-    icon: "/assets/images/mapIcons/map_marker_birthday.png",
-  },
-  couple: {
-    icon: "/assets/images/mapIcons/map_marker_couple.png",
-  },
-  junkfood: {
-    icon: "/assets/images/mapIcons/map_marker_junkfood.png",
-  },
-  brunch: {
-    icon: "/assets/images/mapIcons/map_marker_brunch.png",
-  },
-  surprise: {
-    icon: "/assets/images/mapIcons/map_marker_surprise.png",
-  },
-};
-
-//Map Markers
-
-var markersOnMap = [
+const RECOMMENDED_LOCATIONS = [
   {
     placeName: "Salon de the Claude",
     LatLng: [
@@ -370,3 +309,85 @@ var markersOnMap = [
     type: "surprise",
   },
 ];
+
+function initMap() {
+  map = new google.maps.Map(document.getElementById("map"), {
+    zoom: 14,
+    center: centerCords,
+  });
+  addMarkerInfo();
+}
+
+function showLocations(type) {
+  clearMarkers();
+  addMarkerInfo(type);
+}
+
+function addMarkerInfo(type = null) {
+  const recommended_locations = type
+    ? RECOMMENDED_LOCATIONS.filter((location) => location.type === type)
+    : RECOMMENDED_LOCATIONS;
+  markers = [];
+  for (var i = 0; i < recommended_locations.length; i++) {
+    var contentString = "<h5>" + recommended_locations[i].placeName + "</h5>";
+
+    const marker = new google.maps.Marker({
+      position: recommended_locations[i].LatLng[0],
+      icon: icons[recommended_locations[i].type].icon,
+      map: map,
+    });
+
+    const infowindow = new google.maps.InfoWindow({
+      content: contentString,
+    });
+
+    marker.addListener("click", () => {
+      closeInfoWindow();
+      infowindow.open(marker.get("map"), marker);
+      infoObj[0] = infowindow;
+    });
+    markers.push(marker);
+  }
+}
+
+function clearMarkers() {
+  for (let i = 0; i < markers.length; i++) {
+    if (markers[i]) {
+      markers[i].setMap(null);
+    }
+  }
+  markers = [];
+}
+
+function closeInfoWindow() {
+  if (infoObj.length > 0) {
+    infoObj[0].set("marker", null);
+    infoObj[0].close();
+    infoObj[0].length = 0;
+  }
+}
+
+//Map Icons
+
+var icons = {
+  single: {
+    icon: "/assets/images/mapIcons/map_marker_single.png",
+  },
+  birthday: {
+    icon: "/assets/images/mapIcons/map_marker_birthday.png",
+  },
+  couple: {
+    icon: "/assets/images/mapIcons/map_marker_couple.png",
+  },
+  junkfood: {
+    icon: "/assets/images/mapIcons/map_marker_junkfood.png",
+  },
+  brunch: {
+    icon: "/assets/images/mapIcons/map_marker_brunch.png",
+  },
+  surprise: {
+    icon: "/assets/images/mapIcons/map_marker_surprise.png",
+  },
+};
+
+//Map Markers
