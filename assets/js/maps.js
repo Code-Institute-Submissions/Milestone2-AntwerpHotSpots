@@ -90,7 +90,7 @@ var markersOnMap = [
     type: "single",
   },
   {
-    placeName: "Fonsbury & Sons ",
+    placeName: "Fonsbury & Sons",
     LatLng: [
       {
         lat: 51.20002,
