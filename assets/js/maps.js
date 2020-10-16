@@ -7,6 +7,31 @@ var centerCords = {
 
 let markers = [];
 
+//Map Icons
+
+const icons = {
+  single: {
+    icon: "/assets/images/mapIcons/map_marker_single.png",
+  },
+  birthday: {
+    icon: "/assets/images/mapIcons/map_marker_birthday.png",
+  },
+  couple: {
+    icon: "/assets/images/mapIcons/map_marker_couple.png",
+  },
+  junkfood: {
+    icon: "/assets/images/mapIcons/map_marker_junkfood.png",
+  },
+  brunch: {
+    icon: "/assets/images/mapIcons/map_marker_brunch.png",
+  },
+  surprise: {
+    icon: "/assets/images/mapIcons/map_marker_surprise.png",
+  },
+};
+
+//Map Markers
+
 const RECOMMENDED_LOCATIONS = [
   {
     placeName: "Salon de the Claude",
@@ -310,6 +335,8 @@ const RECOMMENDED_LOCATIONS = [
   },
 ];
 
+//Function to fetch Google Maps
+
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
     zoom: 14,
@@ -318,10 +345,14 @@ function initMap() {
   addMarkerInfo();
 }
 
+//Function which shows locations 
+
 function showLocations(type) {
   clearMarkers();
   addMarkerInfo(type);
 }
+
+//Function to filter markers based on occasion type
 
 function addMarkerInfo(type = null) {
   const recommended_locations = type
@@ -350,6 +381,8 @@ function addMarkerInfo(type = null) {
   }
 }
 
+//Function to clear markers when another type has been called
+
 function clearMarkers() {
   for (let i = 0; i < markers.length; i++) {
     if (markers[i]) {
@@ -359,6 +392,8 @@ function clearMarkers() {
   markers = [];
 }
 
+//Function to close the popup infoWindow 
+
 function closeInfoWindow() {
   if (infoObj.length > 0) {
     infoObj[0].set("marker", null);
@@ -366,28 +401,3 @@ function closeInfoWindow() {
     infoObj[0].length = 0;
   }
 }
-
-//Map Icons
-
-var icons = {
-  single: {
-    icon: "/assets/images/mapIcons/map_marker_single.png",
-  },
-  birthday: {
-    icon: "/assets/images/mapIcons/map_marker_birthday.png",
-  },
-  couple: {
-    icon: "/assets/images/mapIcons/map_marker_couple.png",
-  },
-  junkfood: {
-    icon: "/assets/images/mapIcons/map_marker_junkfood.png",
-  },
-  brunch: {
-    icon: "/assets/images/mapIcons/map_marker_brunch.png",
-  },
-  surprise: {
-    icon: "/assets/images/mapIcons/map_marker_surprise.png",
-  },
-};
-
-//Map Markers
