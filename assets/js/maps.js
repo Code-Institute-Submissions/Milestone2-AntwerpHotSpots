@@ -8,7 +8,6 @@ var centerCords = {
 let markers = [];
 
 //Map Icons
-
 const icons = {
   single: {
     icon: "/assets/images/mapIcons/map_marker_single.png",
@@ -31,10 +30,12 @@ const icons = {
 };
 
 //Map Markers
-
 const RECOMMENDED_LOCATIONS = [
   {
     placeName: "Salon de the Claude",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    placeImage: "<div style='float:left'><img src='http://i.stack.imgur.com/g672i.png'></div>",
     LatLng: [
       {
         lat: 51.221183,
@@ -45,6 +46,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Luddites Books & Wine",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.216689,
@@ -54,7 +58,10 @@ const RECOMMENDED_LOCATIONS = [
     type: "single",
   },
   {
-    placeName: "Fonsbury & Sons",
+    placeName: "Fosbury & Sons",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.20002,
@@ -65,6 +72,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Bar Paniek",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.234057,
@@ -75,6 +85,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Dansing Chocola",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.213176,
@@ -85,6 +98,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Kommilfoo",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.211083,
@@ -95,6 +111,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "CiPiaCe",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.222882,
@@ -105,6 +124,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Dogma Cocktails",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.221164,
@@ -115,6 +137,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Cocktails at Nine",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.220678,
@@ -125,6 +150,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "De Muze",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.220477,
@@ -135,6 +163,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Pazzo Antwerp ",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.226679,
@@ -145,6 +176,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Corazón De Melón",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.219776,
@@ -155,6 +189,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Het Gerecht ",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.208799,
@@ -165,6 +202,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Sombat Thai Cuisine",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.195664,
@@ -175,6 +215,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Eetkamer a l’Infintiste",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.211405,
@@ -185,6 +228,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Manhattn’s Burger ",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.218821,
@@ -195,6 +241,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Beastie Burger Antwerpen",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.21463,
@@ -205,6 +254,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Fries Atelier ",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.216697,
@@ -215,6 +267,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Black Smoke",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.199288,
@@ -225,6 +280,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "Mission Masala",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.203631,
@@ -235,6 +293,9 @@ const RECOMMENDED_LOCATIONS = [
   },
   {
     placeName: "No worries ",
+    placeDescription: "This is the description" ,
+    address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
+    contact: '',
     LatLng: [
       {
         lat: 51.23031,
@@ -335,8 +396,7 @@ const RECOMMENDED_LOCATIONS = [
   },
 ];
 
-//Function to fetch Google Maps
-
+//Function to display start coordinates on Google Maps
 function initMap() {
   map = new google.maps.Map(document.getElementById("map"), {
     zoom: 14,
@@ -346,32 +406,41 @@ function initMap() {
 }
 
 //Function which shows locations 
-
 function showLocations(type) {
   clearMarkers();
   addMarkerInfo(type);
 }
 
-//Function to filter markers based on occasion type
-
+//Function to filter markers based on occasion type 
 function addMarkerInfo(type = null) {
   const recommended_locations = type
     ? RECOMMENDED_LOCATIONS.filter((location) => location.type === type)
     : RECOMMENDED_LOCATIONS;
   markers = [];
   for (var i = 0; i < recommended_locations.length; i++) {
-    var contentString = "<h5>" + recommended_locations[i].placeName + "</h5>";
+    
+    //Location details displayed in infowindow
+    var contentString = 
+    '<h5 id="firstHeading" class="firstHeading">' + recommended_locations[i].placeName + '</h5>' +
+    '<div id="bodyContent">' + 
+    "<p>" + recommended_locations[i].placeDescription + "</p>" +
+    "<p>" + recommended_locations[i].address + "</p>" +
+    "<p>" + recommended_locations[i].placeImage + "</p>" +
+    '</div>';
 
+    //Create marker with custom icon
     const marker = new google.maps.Marker({
       position: recommended_locations[i].LatLng[0],
       icon: icons[recommended_locations[i].type].icon,
       map: map,
     });
 
+    //Create infowindow
     const infowindow = new google.maps.InfoWindow({
       content: contentString,
     });
 
+    //Displays info window when a marker is clicked
     marker.addListener("click", () => {
       closeInfoWindow();
       infowindow.open(marker.get("map"), marker);
@@ -381,8 +450,7 @@ function addMarkerInfo(type = null) {
   }
 }
 
-//Function to clear markers when another type has been called
-
+//Function to clear markers when another type of marker has been called
 function clearMarkers() {
   for (let i = 0; i < markers.length; i++) {
     if (markers[i]) {
@@ -393,7 +461,6 @@ function clearMarkers() {
 }
 
 //Function to close the popup infoWindow 
-
 function closeInfoWindow() {
   if (infoObj.length > 0) {
     infoObj[0].set("marker", null);

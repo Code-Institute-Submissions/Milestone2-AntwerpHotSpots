@@ -13,5 +13,8 @@ flaticon attribute:
 custom map markers & info window:
 https://www.youtube.com/watch?v=Xptz0GQ2DO4 
 
-modal:
-https://www.w3schools.com/howto/howto_css_modals.asp
+adding image to infowindow:
+https://stackoverflow.com/questions/33788841/adding-image-in-infowindow-of-google-maps 
+
+adding details to infowindow:
+https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple 
