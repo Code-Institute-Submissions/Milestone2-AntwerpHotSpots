@@ -35,7 +35,7 @@ const RECOMMENDED_LOCATIONS = [
     placeName: "Salon de the Claude",
     placeDescription: "This is the description" ,
     address: "Hendrik Conscienceplein 5, 2000 Antwerpen",
-    placeImage: "<div style='float:left'><img src='http://i.stack.imgur.com/g672i.png'></div>",
+    placeImage: "<div><img style='height:100px; width:100px' src='/assets/images/recommendedLocations/restaurant-salon-de-the-claude-2.jpg'></div>",
     LatLng: [
       {
         lat: 51.221183,
