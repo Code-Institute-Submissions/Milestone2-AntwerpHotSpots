@@ -92,7 +92,7 @@ const RECOMMENDED_LOCATIONS = [
     placeDescription: "Dansing Chocola is one of those dreamy, retro places that seems to have come straight out of a book. The minute you walk into the place, you’ll feel like you’re entering into another dimension. In addition to the retro decor, antiques, and other curiosities, you can come here to enjoy good food, drinks & artistic atmosphere." ,
     address: "<strong>Address:</strong> Kloosterstraat 159, 2000 Antwerpen",
     openingTimes: "<strong>Opening Times:</strong> Monday-Sunday 11am-12am",
-    placeImage: "<div><img style='height:100px; width:180px' src='/assets/images/recommendedLocations/Dansing_Chocola_1200x630'></div>",
+    placeImage: "<div><img style='height:100px; width:180px' src='/assets/images/recommendedLocations/Dansing_Chocola_1200x630.jpg'></div>",
     LatLng: [
       {
         lat: 51.213176,
@@ -190,7 +190,7 @@ const RECOMMENDED_LOCATIONS = [
     placeDescription: "Corazón De Melón is the place for the best Spanish tapas in Antwerp, just a couple minutes away from the Grote Markt. Enjoy fresh products worked in the traditional Spanish way." ,
     address: "<strong>Address:</strong> Vlasmarkt 14, 2000 Antwerpen",
     openingTimes: "<strong>Opening Times:</strong> Thursday-Monday: 4pm-10pm; Tuesday & Wednesday Closed",
-    placeImage: "<div><img style='height:100px; width:180px' src='/assets/images/recommendedLocations/Corazone_1200x630'></div>",
+    placeImage: "<div><img style='height:100px; width:180px' src='/assets/images/recommendedLocations/Corazone_1200x630.jpg'></div>",
     LatLng: [
       {
         lat: 51.219776,
@@ -480,10 +480,10 @@ function addMarkerInfo(type = null) {
     var contentString = 
     '<h5 id="firstHeading" class="firstHeading">' + recommended_locations[i].placeName + '</h5>' +
     '<div id="bodyContent">' + 
+    "<p>" + recommended_locations[i].placeImage + "</p>" +
     "<p>" + recommended_locations[i].placeDescription + "</p>" +
     "<p>" + recommended_locations[i].address + "</p>" +
     "<p>" + recommended_locations[i].openingTimes + "</p>" +
-    "<p>" + recommended_locations[i].placeImage + "</p>" +
     '</div>';
 
     //Create marker with custom icon
