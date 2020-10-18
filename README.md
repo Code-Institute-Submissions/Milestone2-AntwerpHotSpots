@@ -212,9 +212,14 @@ This site is hosted on GitHub Pages.
 
 ### 1. Code Snippets 
 
-* Inspiration for the [Callout Container & Jumbotron](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/a4b90d17e5c94220a0f83f00ce7fa606/4b3b1b062b01424997c8fd052e177b8e/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%404b3b1b062b01424997c8fd052e177b8e) (styling)
-* Inspiration for the [Parallax Effect](https://www.w3schools.com/howto/howto_css_parallax.asp) 
+* Inspiration for the [Jumbotron](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/a4b90d17e5c94220a0f83f00ce7fa606/4b3b1b062b01424997c8fd052e177b8e/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%404b3b1b062b01424997c8fd052e177b8e) (styling)
+* Inspiration for the [Banner Image](https://www.w3schools.com/howto/howto_css_hero_image.asp) 
 * Inspiration for [Footer](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/b51f7b8b815c4bcd9979d2281b6d97a9/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%40b51f7b8b815c4bcd9979d2281b6d97a9) (styling)
+* Tutorial for adding [Google Maps API](https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+IFD101+2017_T3/courseware/03d3f6524ad249d9b33e3336d156dfd0/3b2af8636ea54a4d9dc45126f7498633/?activate_block_id=block-v1%3ACodeInstitute%2BIFD101%2B2017_T3%2Btype%40sequential%2Bblock%403b2af8636ea54a4d9dc45126f7498633)
+* Code used for adding the [InfoWindow & Custom Map Markers](https://www.youtube.com/watch?v=Xptz0GQ2DO4)
+* Help with adding image to [InfoWindow](https://stackoverflow.com/questions/33788841/adding-image-in-infowindow-of-google-maps)
+* Help with adding description to [InfoWindow](https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple)
+* Help with filtering markers based on occasion type from my mentor 
 * Code used for [Email link](https://www.tutorialspoint.com/html/html_email_links.htm) in footer 
 
 ### 2. Media 
@@ -222,7 +227,7 @@ This site is hosted on GitHub Pages.
 * Icons from: [FontAwesome](https://fontawesome.com/icons?d=gallery)
 * All images sourced from: [Unsplash](https://unsplash.com/collections/10243987/milestone-project-1-)
 * Karla & Montserrat Fonts from: [Google Fonts](https://fonts.google.com/?category=Sans+Serif)
-* <div>Icons made by <a href="https://www.flaticon.local/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.local/" title="Flaticon">www.flaticon.local</a></div>
+* Custom map marker icons from [Flat Icon](https://www.flaticon.local/authors/freepik) & modified into custom markers by myself
 
 ### 3. Content 
 
@@ -234,25 +239,4 @@ This site is hosted on GitHub Pages.
 
 ### 4. Acknowledgements 
 
-* **Oluwafemi Medale (My CI Mentor):** Thanks for your advice, guidance and support throughout the duration of this project.
-I look forward to working with you again on future milestone projects.
-
-
-
-
-1/3 % 2/3 colums from: https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/616289d66b5641a3808cc43e53842695/a701aa4956df4ce8a1026791c248d5c9/?child=first 
-
-Tutorial for Google Maps:
-https://courses.codeinstitute.net/courses/course-v1:CodeInstitute+IFD101+2017_T3/courseware/03d3f6524ad249d9b33e3336d156dfd0/3b2af8636ea54a4d9dc45126f7498633/?activate_block_id=block-v1%3ACodeInstitute%2BIFD101%2B2017_T3%2Btype%40sequential%2Bblock%403b2af8636ea54a4d9dc45126f7498633 
-
-flaticon attribute:
-<div>Icons made by <a href="https://www.flaticon.local/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.local/" title="Flaticon">www.flaticon.local</a></div>
-
-custom map markers & info window:
-https://www.youtube.com/watch?v=Xptz0GQ2DO4 
-
-adding image to infowindow:
-https://stackoverflow.com/questions/33788841/adding-image-in-infowindow-of-google-maps 
-
-adding details to infowindow:
-https://developers.google.com/maps/documentation/javascript/examples/infowindow-simple 
+* **Oluwafemi Medale (My CI Mentor):** Thanks for your advice and support.
