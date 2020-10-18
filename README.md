@@ -225,9 +225,36 @@ This site is hosted on GitHub Pages.
 ### 2. Media 
 
 * Icons from: [FontAwesome](https://fontawesome.com/icons?d=gallery)
-* All images sourced from: [Unsplash](https://unsplash.com/collections/10243987/milestone-project-1-)
 * Karla & Montserrat Fonts from: [Google Fonts](https://fonts.google.com/?category=Sans+Serif)
 * Custom map marker icons from [Flat Icon](https://www.flaticon.local/authors/freepik) & modified into custom markers by myself
+* Recommended Location images were sourced from:
+    * [Salon de the Claude]()
+    * [Luddites Books & Wine](https://www.google.com/search?q=luddites+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00mws5ve5iHpNoVfIxuu8yXB0XQ7A:1603052443113&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR6LXb-77sAhWPzoUKHUG0A2wQ_AUoAXoECAQQAw&biw=1280&bih=594#imgrc=hsrftkithUWVlM)
+    * [Kommilfoo](https://guide.michelin.com/en/antwerpen/be-antwerpen/restaurant/kommilfoo)
+    * [CiPiaCe](https://www.facebook.com/cipiaceantwerp/?ref=page_internal)
+    * [Dogma Cocktails](https://www.spottedbylocals.com/antwerp/dogma/)
+    * [Manhattn's Burger](https://www.google.com/search?q=manhattan+burger+antwerp&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk02lx2kaLhBl0cV1EsZOTOoa7B_fVg:1603049148200&source=lnms&tbm=isch&sa=X&ved=2ahUKEwijnKS4777sAhURdxoKHXd3A4EQ_AUoAnoECAUQBA&biw=1280&bih=594#imgrc=6Pfp1n-YAOx_VM)
+    * [Beastie Burger Antwerpen](https://www.google.com/search?q=beastie+burger+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00GFZXri1BdIrZ-ECfPefTvQMpv3Q:1603049200875&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6u7PR777sAhUNfBoKHdHVDnwQ_AUoAXoECAUQAw&biw=1280&bih=594#imgrc=oGgnxqbPBK0kzM)
+    * [Frites Atelier](https://www.google.com/search?q=frites+atelier+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk0106bjMUxnhw05GOC1W8VyyxITSBQ:1603049622317&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPlq6a8b7sAhXixoUKHbKnB0oQ_AUoAXoECAUQAw&biw=1280&bih=594#imgrc=XE7E3XPC1qg8-M )
+    * [Black Smoke](https://www.google.com/search?q=black+smoke+antwerp&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00lECeNal0ZZBASd6Y3Kk-1DHgIfw:1603049829713&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi6wqD98b7sAhVC6RoKHVYHCIcQ_AUoAXoECAkQAw&biw=1280&bih=594#imgrc=KSrKVc2yCrIlfM)
+    * [Mission Masala](https://www.google.com/search?q=mission+masala+antwerp&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk038M9C3wbx6gHiitLsP4RmDIgc_0A:1603049868595&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiV4-WP8r7sAhUMx4UKHbLeBE8Q_AUoAXoECAUQAw&biw=1280&bih=594#imgrc=w8uWjGhxjOSw0M)
+    * [Pazzo](https://www.facebook.com/pazzoantwerpen/photos/2460053147457378)
+    * [Corazón De Melón](https://www.google.com/search?q=Coraz%C3%B3n+De+Mel%C3%B3n+antwerp&tbm=isch&ved=2ahUKEwid7LDW8r7sAhVRyqQKHSo2CPYQ2-cCegQIABAA&oq=Coraz%C3%B3n+De+Mel%C3%B3n+antwerp&gs_lcp=CgNpbWcQA1CE2SBYhNkgYNfcIGgAcAB4AIABXogBXpIBATGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=IJqMX53cJdGUkwWq7KCwDw&bih=594&biw=1280&rlz=1C5CHFA_enMY503MY503#imgrc=6I_8cWOIg8D1tM )
+    * [Het Gerecht](https://www.google.com/search?q=Het+Gerecht++antwerp&tbm=isch&ved=2ahUKEwjj4_rW9L7sAhVtwAIHHbBAD9oQ2-cCegQIABAA&oq=Het+Gerecht++antwerp&gs_lcp=CgNpbWcQAzIECAAQE1CjywJYo8sCYLnNAmgAcAB4AIABRIgBRJIBATGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=OpyMX-PeKu2Ai-gPsIG90A0&bih=594&biw=1280&rlz=1C5CHFA_enMY503MY503#imgrc=5ZsmK8tn4PvpLM)
+    * [Sombat Thai Cuisine](https://www.google.com/search?q=Sombat+Thai+Cuisine+&tbm=isch&ved=2ahUKEwicgoHs9L7sAhXGu6QKHRlvDswQ2-cCegQIABAA&oq=Sombat+Thai+Cuisine+&gs_lcp=CgNpbWcQAzIECAAQGDIECAAQGFDc_wFY3P8BYPOCAmgAcAB4AIABW4gBW5IBATGYAQCgAQGqAQtnd3Mtd2l6LWltZ8ABAQ&sclient=img&ei=ZpyMX5y3M8b3kgWZ3rngDA&bih=594&biw=1280&rlz=1C5CHFA_enMY503MY503#imgrc=OwDCoMA-f7tHJM)
+    * [Eetkamer a l’Infintiste](https://www.facebook.com/cipiaceantwerp/?ref=page_internal)
+    * [Bubble Waffle](http://bubblewaffle.be/)
+    * [Bar'rique]( https://www.facebook.com/barrique.antwerpen/photos/1028476767343832 )
+    * [Barchel](http://barchel-antwerp.com/)
+    * [Cafematic](https://www.pocketresto.be/antwerpen/cafematic)
+    * [Sky Bar](https://summerbars.com)
+    * [Bar d'Henri](https://www.facebook.com/bardhenri/photos/a.692918761533515/802857213873002/ )
+    * [Bier Central](https://www.google.com/search?q=bier+central&tbm=isch&chips=q:bier+central,online_chips:antwerp&rlz=1C5CHFA_enMY503MY503&hl=en&sa=X&ved=2ahUKEwjkr7LO7L7sAhUK2aQKHaOID3kQ4lYoA3oECAEQGQ&biw=1280&bih=594#imgrc=rkev_fzW4PsclM)
+    * [Tranquilo](https://www.google.com/search?q=tranquilo+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00y8Vn8gZNuYgkoidbl1_FEDXUYsQ:1603048440520&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEhevm7L7sAhWVDWMBHZ90BIwQ_AUoAXoECAcQAw&biw=1280&bih=594#imgrc=r8_7Ihfd-rS4hM)
+    * [CiPiaCe](https://www.facebook.com/cipiaceantwerp/?ref=page_internal)
+    * [Sky Bar](https://skybarantwerp.be/)
+    * [Sky Bar](https://skybarantwerp.be/)
+    * [Sky Bar](https://skybarantwerp.be/)
 
 ### 3. Content 
 
@@ -235,7 +262,30 @@ This site is hosted on GitHub Pages.
 * The texts have in large part been modified or made up by me, Zahra Sadiq 
 * The quick info details are replicated from the [BangkokVanguards food tour website](https://bangkokvanguards.com/experiences/the-ultimate-bangkok-foodtour/)
 * The customer reviews are real TripAdvisor reviews which have been modified to fit the context of this website 
-* Content written for the Itinerary section was modified from [here](https://feastthailand.com/food/food-culture/chinese-influence/) and [here](https://feastthailand.com/foodies-food-tour/)
+* Unmodified descriptions for Recommended Locations on the map were taken from the following sources:
+    * [Luddites Books & Wine](https://www.tripadvisor.com/Attraction_Review-g188636-d21011255-Reviews-Luddites_Books_Wine-Antwerp_Antwerp_Province.html)
+    * [Kommilfoo](https://guide.michelin.com/en/antwerpen/be-antwerpen/restaurant/kommilfoo)
+    * [CiPiaCe](https://www.facebook.com/cipiaceantwerp/?ref=page_internal)
+    * [Cocktails at Nine](https://www.facebook.com/CocktailsatNine/)
+    * [De Muze](https://www.demuze.eu/)
+    * [Manhattn's Burger](https://www.manhattns.com/)
+    * [Beastie Burger Antwerpen](https://www.beastie.be/about-us/)
+    * [Frites Atelier](https://www.fritesatelier.com/our-story)
+    * [Black Smoke](https://www.dekoninck.be/en/crafts/black-smoke)
+    * [Mission Masala](https://wwc.resengo.com/mission_masala_antwerpen)
+    * [Eetkamer a l’Infintiste](https://www.facebook.com/cipiaceantwerp/?ref=page_internal)
+    * [No worries](https://www.facebook.com/NoWorriesAntwerpen/)
+    * ['T Zilte](https://guide.michelin.com/en/antwerpen/be-antwerpen/restaurant/t-zilte)
+    * [Sky Bar](https://skybarantwerp.be/)
+    * [Barchel](http://barchel-antwerp.com/)
+    * [Bar d'Henri](https://www.facebook.com/bardhenri/photos/a.692918761533515/802857213873002/ )
+    * [Tranquilo](http://tranquilo.restaurant/)
+    * [Sky Bar](https://skybarantwerp.be/)
+    * [Sky Bar](https://skybarantwerp.be/)
+    * [Sky Bar](https://skybarantwerp.be/)
+    * [Sky Bar](https://skybarantwerp.be/)
+    * [Sky Bar](https://skybarantwerp.be/)
+    
 
 ### 4. Acknowledgements 
 
