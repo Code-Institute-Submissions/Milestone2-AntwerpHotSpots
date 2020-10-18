@@ -41,6 +41,19 @@ This website can be used by anybody, but primarily targeted towards young adults
 
 * As a Frequent Visitor, I want to check to see if there are any newly added recommended locations that I can check out.
 
+### Design: 
+
+* Color Scheme: 
+    * The three main colors used Black, Pink & Beige.
+
+* Typography:
+    * All Headers use Karla. Karla is a sans-serif font with nice letter-spacing - which makes it easy-to-read & clean.
+    * Montserrat is my secondary font, used for paragraphs. Like Karla, it is both clean & easy to read especially on smaller devices & pairs nicely with Karla. 
+    * Sans-Serif is used as the backup font for both Karla & Montserrat.
+
+* Imagery: 
+    * A bright, colorful image was used for the hero image to be eye-catching to the user. It also compliments the color scheme, adding an element of consistency to the website. 
+
 ### Wireframes & Mockups:
 
 * View my initial website sitemap and wireframes for desktop (version 1) [here](https://drive.google.com/file/d/1kq3LTz5UpMnOmWZKe2MqF0he9VmtHf0v/view?usp=sharing)
@@ -171,6 +184,7 @@ This site is hosted on GitHub Pages.
 
 * Icons from: [FontAwesome](https://fontawesome.com/icons?d=gallery)
 * Karla & Montserrat Fonts from: [Google Fonts](https://fonts.google.com/?category=Sans+Serif)
+* Banner image from: [Unsplash](https://unsplash.com/)
 * Custom map marker icons from [Flat Icon](https://www.flaticon.local/authors/freepik) & modified into custom markers by myself
 * Recommended Location images were sourced from:
     * [Salon de the Claude](https://www.google.com/search?q=salon+de+th%C3%A9+claude+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk01sQiAHICXEc59eElrNFDgRuOrcCg:1603059383675&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhkvjIlb_sAhWk4IUKHZNYDasQ_AUoAnoECAQQBA&biw=1271&bih=643#imgrc=2b27vpjSjth1CM)
