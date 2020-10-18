@@ -228,7 +228,7 @@ This site is hosted on GitHub Pages.
 * Karla & Montserrat Fonts from: [Google Fonts](https://fonts.google.com/?category=Sans+Serif)
 * Custom map marker icons from [Flat Icon](https://www.flaticon.local/authors/freepik) & modified into custom markers by myself
 * Recommended Location images were sourced from:
-    * [Salon de the Claude]()
+    * [Salon de the Claude](https://www.google.com/search?q=salon+de+th%C3%A9+claude+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk01sQiAHICXEc59eElrNFDgRuOrcCg:1603059383675&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjhkvjIlb_sAhWk4IUKHZNYDasQ_AUoAnoECAQQBA&biw=1271&bih=643#imgrc=2b27vpjSjth1CM)
     * [Luddites Books & Wine](https://www.google.com/search?q=luddites+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00mws5ve5iHpNoVfIxuu8yXB0XQ7A:1603052443113&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjR6LXb-77sAhWPzoUKHUG0A2wQ_AUoAXoECAQQAw&biw=1280&bih=594#imgrc=hsrftkithUWVlM)
     * [Kommilfoo](https://guide.michelin.com/en/antwerpen/be-antwerpen/restaurant/kommilfoo)
     * [CiPiaCe](https://www.facebook.com/cipiaceantwerp/?ref=page_internal)
@@ -251,17 +251,16 @@ This site is hosted on GitHub Pages.
     * [Bar d'Henri](https://www.facebook.com/bardhenri/photos/a.692918761533515/802857213873002/ )
     * [Bier Central](https://www.google.com/search?q=bier+central&tbm=isch&chips=q:bier+central,online_chips:antwerp&rlz=1C5CHFA_enMY503MY503&hl=en&sa=X&ved=2ahUKEwjkr7LO7L7sAhUK2aQKHaOID3kQ4lYoA3oECAEQGQ&biw=1280&bih=594#imgrc=rkev_fzW4PsclM)
     * [Tranquilo](https://www.google.com/search?q=tranquilo+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00y8Vn8gZNuYgkoidbl1_FEDXUYsQ:1603048440520&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiEhevm7L7sAhWVDWMBHZ90BIwQ_AUoAXoECAcQAw&biw=1280&bih=594#imgrc=r8_7Ihfd-rS4hM)
-    * [CiPiaCe](https://www.facebook.com/cipiaceantwerp/?ref=page_internal)
-    * [Sky Bar](https://skybarantwerp.be/)
-    * [Sky Bar](https://skybarantwerp.be/)
-    * [Sky Bar](https://skybarantwerp.be/)
+    * [Coffelabs at Fosbury & Sons](https://www.google.com/search?q=Fosbury+%26+Sons&rlz=1C5CHFA_enMY503MY503&hl=en&sxsrf=ALeKk00e-MQGmlxKLGXZmxqlkE4ObiFj3A:1603059529270&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiC066Olr_sAhUJCxoKHQV4BYwQ_AUoAXoECAwQAw&biw=1271&bih=643#imgrc=4320OTQbkgbwWM)
+    * [Bar Paniek](https://www.google.com/search?q=bar+paniek&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00mzK8rZlOVP43ZZEIALGwQ9CqDcg:1603059562525&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjPopyelr_sAhUGy4UKHRxcBCEQ_AUoAXoECAUQAw&biw=1271&bih=643#imgrc=Sg3uFviYDPlReM)
+    * [Dansing Chocola](https://www.google.com/search?q=dansing+chocola&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk00TpXZZ1Q_hPFtEkA4lK9PNxw5Emw:1603059585400&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj_rZCplr_sAhVP9IUKHYlSBkoQ_AUoAXoECAQQAw&biw=1271&bih=643#imgrc=ajs0nft0jMEoEM)
+    * [Kommilfoo](https://www.restaurantkommilfoo.be/)
+    * [De Muze](https://www.google.com/search?q=demuze&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk01_NW7arLMGYDVPCEJ9tb4VSHPKtg:1603059704838&source=lnms&tbm=isch&sa=X&ved=2ahUKEwj-uYrilr_sAhVBXxoKHXq0BcwQ_AUoA3oECAQQBQ&biw=1271&bih=643#imgrc=PSvkN3Vr6NlFrM)
+    * ['T Zilte](https://www.google.com/search?q=t+zilte&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk03UTb_tstJCYwJpv7LqmZhnPneaCw:1603060039068&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAlrqBmL_sAhUM5uAKHYzsC_YQ_AUoAXoECAkQAw&biw=1271&bih=643#imgrc=bG-SsI_gJ-9X0M)
+    * [No Worries](https://www.google.com/search?q=no+worries+antwerpen&rlz=1C5CHFA_enMY503MY503&sxsrf=ALeKk03KME1Jz5yLlQRY8N-OdoauXNKGiA:1603060103297&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjXuYqgmL_sAhUE_RQKHcd8AAsQ_AUoAnoECAUQBA&biw=1271&bih=643#imgrc=LbHHiVSnaZHWDM)
 
 ### 3. Content 
 
-* The tour information on the website was inspired from the [BangkokVanguards food tour website](https://bangkokvanguards.com/experiences/the-ultimate-bangkok-foodtour/)  
-* The texts have in large part been modified or made up by me, Zahra Sadiq 
-* The quick info details are replicated from the [BangkokVanguards food tour website](https://bangkokvanguards.com/experiences/the-ultimate-bangkok-foodtour/)
-* The customer reviews are real TripAdvisor reviews which have been modified to fit the context of this website 
 * Unmodified descriptions for Recommended Locations on the map were taken from the following sources:
     * [Luddites Books & Wine](https://www.tripadvisor.com/Attraction_Review-g188636-d21011255-Reviews-Luddites_Books_Wine-Antwerp_Antwerp_Province.html)
     * [Kommilfoo](https://guide.michelin.com/en/antwerpen/be-antwerpen/restaurant/kommilfoo)
@@ -280,13 +279,7 @@ This site is hosted on GitHub Pages.
     * [Barchel](http://barchel-antwerp.com/)
     * [Bar d'Henri](https://www.facebook.com/bardhenri/photos/a.692918761533515/802857213873002/ )
     * [Tranquilo](http://tranquilo.restaurant/)
-    * [Sky Bar](https://skybarantwerp.be/)
-    * [Sky Bar](https://skybarantwerp.be/)
-    * [Sky Bar](https://skybarantwerp.be/)
-    * [Sky Bar](https://skybarantwerp.be/)
-    * [Sky Bar](https://skybarantwerp.be/)
     
-
 ### 4. Acknowledgements 
 
 * **Oluwafemi Medale (My CI Mentor):** Thanks for your advice and support.
