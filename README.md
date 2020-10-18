@@ -13,14 +13,7 @@
 <span id="project-background"></span>
 ## Project Background :information_desk_person:
 
-This project is a redesign of the [BangkokVanguards](https://bangkokvanguards.com/experiences/the-ultimate-bangkok-foodtour/) street food tour page. 
-The name of the agency was changed to StreetFoodies & Co., a fictitious & catchy name that suits the vibe of the tour. 
-
-The idea behind the re envisioned structure & layout of the website is:
-1. To give visitors a better idea of what the tour has to offer through clearly-defined sections highlighting key information & unique selling points;
-2. To provide them with the ability to book the tour with ease with a simple click of a button. 
-
-In the long run, the elevated user experience would help to drive more traffic to the website and generate higher booking conversions for the agency.
+This is the website for Antwerp HotSpots - an imaginary Antwerp food&drink guide. It is designed to be interactive & responsive on mobile, tablet and desktop devices, making it easy for users to be presented with recommended locations based on the occasion they select.
 
 ---
 
@@ -29,65 +22,24 @@ In the long run, the elevated user experience would help to drive more traffic t
 
 ### 1. Who is this website for?
 
-This website is targeted towards first time and veteran travelers to Bangkok interested in:
-* learning more about the Bangkok Street Food Tour and
-* booking their spot on the tour. 
+This website can be used by anybody, but primarily targeted towards young adults (i.e. expats/newcomers) to Antwerp who are looking for places to eat/drink and are not too familiar with the best eating spots for specific occasions.
 
+### 2. First-Time User Goals:
 
-### 2. Who are the primary target groups?
+* As a First Time Visitor, I want to easily understand the main purpose of the site and who the company is.
+* As a First Time Visitor, I want to be able to easily navigate throughout the site to find content most relevant to me.
+* As a First Time Visitor, I want to be able to gather key information about each recommended location to be able to make an informed decision.
+* As a First Time Visitor, I want to be able to know where the restaurant/bar recommended to me is located.
+* As a First Time Visitor, I want to be able to visit their social media pages to determine how big a following the company has & how trusted it is.
 
-* This website would attract **first time and veteran travelers to Bangkok** looking for an authentic culinary experience.
-* Since the StreetFoodies & Co. (a fictitious tour agency) has collaborated with Mark Wiens to put together this tour, a 
-large traffic source for this website would be referral traffic from Mark Wiens’ website - i.e. **Mark Wiens fans.**
-* As the tour is 6-8 hours long, with lots of walking, it can be assumed that a large portion of the bookers would be 
-**young to middle-aged adults (men & women) either single or with children** who are able to keep up. 
+### 3. Returning Visitor Goals
 
-(*Taking these points into consideration, I wanted the website to present a young & vibrant look & feel*)
+* As a Returning Visitor, I want to be able to get a variety of options available for the occasion I select. 
+* As a Returning Visitor, I want to find the best way to get in touch with the company with any questions or suggestions I may have.
 
+### 4. Frequent User Goals 
 
-### 3. What is it that they (the users) want to achieve?
-
-There are 4 user goals for this website:
-* Gather key information about the tour & what's included in the tour package 
-* Social validation 
-* Ability to book a spot on the tour with ease 
-* Get contact information in case they need to contact agency directly 
-
-
-### 4. How is my project the best way to help them achieve those things?
-
-* Smooth navigation throughout the website so that users can find the information they’re looking for
-* The content on the website is organized into sections making it both easy to find and digestible
-* Clear call-to-actions inform users what actions they should take on the website
-
-
-### 5. How do users achieve each of the following goals:
-
-**5.1. To learn more about the tour and what will be included in the package:**
-
-The website provides:
-* A "Tour Experience" section which gives a short introduction as to what tour bookers can expect from the tour.
-* A “Quick Info” sub-section, detailing important information such as duration of the tour, meeting point, tour type and more. 
-* An “Itinerary” section which gives website visitors a more elaborate description about the four cuisines they will get to try on the tour.
-* A "Pricing" section listing the price per person, categorized by the age range they fall into.
-
-
-**5.2. To clarify questions they have about the tour or get in touch with the team:**
-
-The website provides:
-* A contact email address and phone number in the footer which travellers can use to contact the tour agency.
-
-
-**5.3. To book a spot on the tour:**
-
-The website provides:
-* A "Book Tour" form which contains a form travellers can fill in to book their spot on the tour.
-
-
-**5.4. To get social validation:**
-
-The website provides:
-* A "customer review" section with reviews left by previous tour bookers retrieved from TripAdvisor. 
+* As a Frequent Visitor, I want to check to see if there are any newly added recommended locations that I can check out.
 
 ### Wireframes & Mockups:
 
@@ -100,14 +52,11 @@ The website provides:
 <span id="features"></span>
 ## Features :clipboard:
 
-* **Navigation bar:** It allows website visitors to navigate easily to different sections on the homepage. It also provides a direct button to the booking form on desktop and larger screens. On mobile, the navigation links collapse into a hamburger menu to take up less real estate on the screen and the button disappears.
-* **Hero Image:** The hero image gives visitors an exciting view of Bangkok’s vibrant nightlife with a closeup of two tuk tuks parked on a busy food street. The text invites visitors to join in on the highly rated street food tour with a special mention of Mark Wiens as a value added proposition. Moreover, a prominent call-to-action button directs them straight to the form to book their spot right away.
-* **Tour Experience:** This first section gives visitors a short and engaging summary of what visitors can expect from the tour, in addition to a link (opening up a separate tab) to Mark Wiens’ website, where people can learn more about him and get WOW'd by his depth of knowledge about food. This would serve as one of the unique selling propositions of this food tour. 
-* **Itinerary:** This section uses Bootstrap’s cards component to give visitors an overview of the different stops they would go to on the tour. Each card displays a representative image of the kind of atmosphere or food they would encounter on the stop, accompanied by a short description of the cuisine. 
-* **Pricing:** The third section - pricing - uses Bootstrap’s list component to breakdown prices based on the age range visitors fall into. 
-* **Reviews:** The customer review section displayed as a carousel offers visitors social validation for the tour with raving remarks from past tour-bookers. 
-* **Booking Form:** The final section displays a booking form (Bootstrap) where visitors would be able to book their spot on the tour. At this moment, the form is not functional as it is not connected to a database. 
-* **Footer:** The footer contains a short introduction to StreetFoodies & Co (the tour agency), contact details with a fictitious email & phone number for visitors to get in touch, and social links which currently direct visitors to Mark Wiens’ social media accounts. 
+* **Buttons that filter map markers:** The buttons allow website visitors to filter map markers based on the occasion they select in order to see the most relevant locations.
+* **Google Maps** This API allows website visitors to see where the recommended location is on the map.
+* **InfoWindow** The InfoWindows on the map present the website visitors with key information about each recommended location.
+* **Mobile Responsive** 
+* **Interactive**
 
 ---
 <span id="technologies"></span>
@@ -120,12 +69,14 @@ This User Centric Frontend Project focused on the use of the following languages
 * CSS - for styling 
 * JavaScript - for map function & interactivity 
 
-### 2. Frameworks 
+### 2. Other Programs & Frameworks Used 
 
-This website makes use of Bootstrap 4 for:
-* grid system 
-* styling 
-* components i.e. buttons
+* Webformatter - to beautify my CSS, HTML, JS code 
+* FontAwesome - for all icons used on the buttons
+* Balsamiq - for creating wireframes 
+* Bootstrap 4.4.1 - for assisting in responsiveness and layout of website 
+* Photopea | Online Photo Editor - for resizing images 
+* Inkscape - for creating custom map markers 
 
 ### 3. IDE's 
 
@@ -134,12 +85,6 @@ This website was developed on GitPod.
 ### 4. External Hosting
 
 This website is saved in a repository on GitHub.
-
-### 5. Other Technologies Used  
-
-* Webformatter - to beautify my CSS, HTML, JS code 
-* FontAwesome - for all icons used on the buttons
-* Balsamiq - for creating wireframes 
 
 ---
 
