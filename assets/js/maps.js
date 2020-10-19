@@ -1,6 +1,6 @@
-var map;
-var infoObj = [];
-var centerCords = {
+let map;
+const infoObj = [];
+const centerCords = {
   lat: 51.219448,
   lng: 4.402464,
 };
@@ -474,7 +474,7 @@ function addMarkerInfo(type = null) {
     ? RECOMMENDED_LOCATIONS.filter((location) => location.type === type)
     : RECOMMENDED_LOCATIONS;
   markers = [];
-  for (var i = 0; i < recommended_locations.length; i++) {
+  for (let i = 0; i < recommended_locations.length; i++) {
     
     //Location details displayed in infowindow
     var contentString = 
