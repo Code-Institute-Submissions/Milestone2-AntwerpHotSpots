@@ -44,7 +44,7 @@ This website can be used by anybody, but primarily targeted towards young adults
 ### Design: 
 
 * Color Scheme: 
-    * The three main colors used Black, Pink & Beige.
+    * The three main colors used are Black, Pink & Beige.
 
 * Typography:
     * All Headers use Karla. Karla is a sans-serif font with nice letter-spacing - which makes it easy-to-read & clean.

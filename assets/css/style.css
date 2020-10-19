@@ -86,15 +86,6 @@ img {
   transform: translate(-50%, -50%);
 }
 
-/*--------------------- Intro Section ---------------------*/
-
-.section-intro {
-  margin-top: 40px;
-  margin-bottom: 40px;
-  font-size: 20px;
-  text-align: center;
-}
-
 /*--------------------- Jumbotron ---------------------*/
 
 .jumbotron {
@@ -114,7 +105,16 @@ img {
   font-family: "montserrat", sans-serif;
 }
 
-/* ----------------------------- Buttons ----------------------------- */
+/*--------------------- Intro Section ---------------------*/
+
+.section-intro {
+  margin-top: 40px;
+  margin-bottom: 40px;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* ----------------------------- Categories ----------------------------- */
 
 .btn-primary {
   background-color: #e98074;
@@ -139,6 +139,10 @@ img {
   text-align: left;
 }
 
+.offset-1 {
+    margin-right: 5.5%;
+    margin-left: 5.5%;
+}
 
 /* ----------------------------- Map ----------------------------- */
 
