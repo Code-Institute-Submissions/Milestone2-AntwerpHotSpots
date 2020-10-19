@@ -57,9 +57,8 @@ This website can be used by anybody, but primarily targeted towards young adults
 
 ### Wireframes & Mockups:
 
-* View my initial website sitemap and wireframes for desktop (version 1) [here](https://drive.google.com/file/d/1kq3LTz5UpMnOmWZKe2MqF0he9VmtHf0v/view?usp=sharing)
-* View final website wireframes for desktop and mobile (version 2) [here](https://drive.google.com/file/d/1jHTmi2l2rRZwRnU1M81dYzpXN-xrQHKj/view?usp=sharing) 
-* View my color scheme mockup [here](https://drive.google.com/file/d/1W_Rj8nJMMFHDrnV2U9GIXhA-wkP34Zuo/view?usp=sharing)  
+* View website wireframes for desktop [here](https://drive.google.com/file/d/15ZmioN0w8vPz3TuhpdIQcyuUIX5oD5v9/view?usp=sharing)
+* View website wireframes for mobile [here](https://drive.google.com/file/d/1Svbf2IyMygzqkQPFNg-TqXWZ9xfA7PxV/view?usp=sharing) 
  
 ---
 
