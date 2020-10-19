@@ -191,16 +191,16 @@ The project was deployed to GitHub Pages by following the steps below:
 1. Log in to GitHub and locate the GitHub Repository
 2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
 3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
-4. Under "Source", click the dropdown called "None" and select "Master Branch".
+4. Under "Source", click the dropdown option called "None" and select "Master Branch".
 5. The page will automatically refresh.
-6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+6. Scroll to GitHub pages section to locate the now published site link.
 
 ### Forking the GitHub Repository
-By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+Forking the GitHub Repository creates a copy of the original repository in our GitHub account to view and/or make changes without affecting the original repository. This can be done through the following steps:
 
-1. Log in to GitHub and locate the GitHub Repository
-2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
-3. You should now have a copy of the original repository in your GitHub account.
+1. Log in to GitHub and find the GitHub Repository
+2. At the top of the Repository - just above & to the right of "Settings" on the menu, locate the "Fork" Button.
+3. Click this to create a copy of the original repository in your GitHub account.
 
 ### Live Site
 * This website is stored in a repository on [Github](https://github.com/ZahraSadiq/Milestone2-AntwerpHotSpots.git) 
