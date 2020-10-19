@@ -463,7 +463,7 @@ function initMap() {
 }
 
 //Function which shows locations 
-function showLocations(type) {
+function showLocations(type = null) {
   clearMarkers();
   addMarkerInfo(type);
 }
