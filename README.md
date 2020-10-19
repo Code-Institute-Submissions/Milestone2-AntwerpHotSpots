@@ -110,6 +110,8 @@ This website is saved in a repository on GitHub.
     * Result: No errors, however I recieved a warning message that my "date" input type for my form may not be supported in all browsers
 * [The W3C CSS Validation Service: W3 Jigsaw](https://jigsaw.w3.org/css-validator/) - for testing my CSS code 
     * Result: "Congratulations! No Error Found."
+* [Syntax Validator - Esprima](https://esprima.org/demo/validate.html)
+    * Result: Code is syntactically valid. 
 * Chrome Dev Tools - for testing:
     * Mobile responsiveness
     * CSS styling changes before implementing it in the code
