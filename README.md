@@ -107,7 +107,7 @@ This website is saved in a repository on GitHub.
 ### 1. Testing Tools 
 
 * [The W3C Markup Validation Service](https://validator.w3.org/) - for testing my HTML code 
-    * Result: No errors, however I recieved a warning message that my "date" input type for my form may not be supported in all browsers
+    * Result: No errors
 * [The W3C CSS Validation Service: W3 Jigsaw](https://jigsaw.w3.org/css-validator/) - for testing my CSS code 
     * Result: "Congratulations! No Error Found."
 * [Syntax Validator - Esprima](https://esprima.org/demo/validate.html)
@@ -177,7 +177,7 @@ This website has been tested on the following Mobile/Tablet devices:
 
 ### 5. Bugs & Problems 
 
-No bigs were spotted during testing.
+No bugs were spotted during testing.
 
 ---
 
