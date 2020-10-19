@@ -30,6 +30,7 @@ This website can be used by anybody, but primarily targeted towards young adults
 * As a First Time Visitor, I want to be able to easily navigate throughout the site to find content most relevant to me.
 * As a First Time Visitor, I want to be able to gather key information about each recommended location to be able to make an informed decision.
 * As a First Time Visitor, I want to be able to know where the restaurant/bar recommended to me is located.
+* As a First Time Visitor, I want to be able to filter the information most interesting to me.
 * As a First Time Visitor, I want to be able to visit their social media pages to determine how big a following the company has & how trusted it is.
 
 ### 3. Returning Visitor Goals
@@ -117,15 +118,48 @@ This website is saved in a repository on GitHub.
     * CSS styling changes before implementing it in the code
     * Network to assess whether it was picking up Javascript (status: 200) 
 
-### 2. User Testing 
+### 2. Testing User Stories (UX Section)
+
+### A. First-Time Visitor Goals:
+
+* As a First Time Visitor, I want to easily understand the main purpose of the site and who the company is.
+    * Upon entering the site, users are presented with a bright, catchy and easily readable banner image, which introduces the Company name and purpose of the site. Underneath, a introductory text follows with more context about occasions people can select from & CTA to click one of the selections below.
+    * In the footer, a short about us blurb gives the user further details about the company.
+
+* As a First Time Visitor, I want to be able to easily navigate through the site to find content most relevant to me.
+    * The website is designed to be very clean and straight to the point. The goal being to allow users to find the spot that most fits their occasion, without being distracted by irrelevant content. 
+
+* As a First Time Visitor, I want to be able to gather key information about each recommended location to be able to make an informed decision.
+    * After selecting a marker on the map, users are presented with a very descriptive infoWindow, displaying information about the bar or restaurant, the address, and opening times. An image adds a nice visual of either the food or atmosphere of each spot.
+
+* As a First Time Visitor, I want to be able to know where the restaurant/bar recommended to me is located.
+    * Each recommended location populates the interactive Google Maps, allowing the user to see on the map where it is located.
+    * When the user clicks on a marker, they can also see the address of the place on the infoWindow. 
+
+* As a First Time Visitor, I want to be able to filter the information most interesting to me.
+    * When a user clicks on a specific button, it will filter the markers based on the occasion type. For example, if a user is looking for places to go to alone - he/she clicks "Alone Again, Naturally" and is shown recommended locations perfect for going to alone.
+    * If a user wants to see all locations again, they have the option to click "All Locations" and the map will be repopulated with all the markers.
+
+* As a First Time Visitor, I want to be able to visit their social media pages to determine how big a following the company has & how trusted it is.
+
+### B. Returning Visitor Goals
+
+* As a Returning Visitor, I want to be able to get a variety of options available for the occasion I select. 
+* As a Returning Visitor, I want to find the best way to get in touch with the company with any questions or suggestions I may have.
+
+### C. Frequent Visitor Goals 
+
+* As a Frequent Visitor, I want to check to see if there are any newly added recommended locations that I can check out.
+
+### 3. Further Testing 
 
 This website has been tested by friends and family to check for:
 * bugs or disabled links 
 * clear user experience & navigation 
-* correct form responses (although form is not functional)
 * picture loading speed 
+* map functionality
 
-### 3. Browser & Device Testing 
+### 4. Browser & Device Testing 
 
 This website has been tested on the following Desktop devices:
 *  MacBook Pro 2013 - Chrome & Safari
@@ -137,28 +171,35 @@ This website has been tested on the following Mobile/Tablet devices:
 * iPhone 6s - Safari
 * iPad Air 2 - Safari 
 
-### 4. Bugs & Problems 
+### 5. Bugs & Problems 
 
-A major problem I encountered with the website was that the parallax effect doesn't work on mobile and tablet devices. 
-To resolve the issue I tried the following:
-* Uploading small and medium-sized background images and creating separate media queries for each breakpoint (without parallax effect) as advised [here](https://web.dev/optimize-css-background-images-with-media-queries/)
-* Removing the parallax effect and adding the background image to a container as done in the [CI tutorial](https://courses.codeinstitute.net/courses/course-v1:codeinstitute+FE+2017_T3/courseware/a4b90d17e5c94220a0f83f00ce7fa606/4b3b1b062b01424997c8fd052e177b8e/?activate_block_id=block-v1%3Acodeinstitute%2BFE%2B2017_T3%2Btype%40sequential%2Bblock%404b3b1b062b01424997c8fd052e177b8e)
 
-*However, none of my attempts worked and due to time restrictions I decided to revert back to the original parallax effect & tackle it sometime in the future.*
-
-* Another bug that I came across is that the carousel in the Reviews Section jumps slightly when sliding on desktop. I hope to resolve this in the future.   
-
-### 5. Sidenotes: 
-
-* Currently the form is not functional, so testing was only done to make sure that input messages are triggered when a user tries to "submit" the form 
-without filling out a required field or checking the required boxes. 
 
 ---
 
 <span id="deployment"></span>
 ## Deployment :rocket: 
 
-* This website is stored in a repository on [Github](https://github.com/ZahraSadiq/Milestone1-StreetFoodiesTour.git) 
+### Github Pages
+
+The project was deployed to GitHub Pages by following the steps below:
+
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+3. Scroll down the Settings page until you locate the "GitHub Pages" Section.
+4. Under "Source", click the dropdown called "None" and select "Master Branch".
+5. The page will automatically refresh.
+6. Scroll back down through the page to locate the now published site link in the "GitHub Pages" section.
+
+### Forking the GitHub Repository
+By forking the GitHub Repository we make a copy of the original repository on our GitHub account to view and/or make changes without affecting the original repository by using the following steps...
+
+1. Log in to GitHub and locate the GitHub Repository
+2. At the top of the Repository (not top of page) just above the "Settings" Button on the menu, locate the "Fork" Button.
+3. You should now have a copy of the original repository in your GitHub account.
+
+### Live Site
+* This website is stored in a repository on [Github](https://github.com/ZahraSadiq/Milestone2-AntwerpHotSpots.git) 
     * It was developed on GitPod, with changes regularly pushed to GitHub's repository using one main master branch.
     * Both the deployed and developed versions of this website are identical.
 
