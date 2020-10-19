@@ -178,7 +178,7 @@ This website has been tested on the following Mobile/Tablet devices:
 
 ### 5. Bugs & Problems 
 
-
+No bigs were spotted during testing.
 
 ---
 
