@@ -176,7 +176,7 @@ const RECOMMENDED_LOCATIONS = [
     placeDescription: "Pazzo combines top affordable cuisine with an impressive combination of flavors. Music is present in all its dishes, just like in the wine pairings served with the food. You can expect a beautiful selection of fresh ravioli, risotto, truffle ice cream and much more here. Perfect for a romantic date. " ,
     address: "<strong>Address:</strong> Oudeleeuwenrui 12, 2000 Antwerpen",
     openingTimes: "<strong>Opening Times:</strong> Monday-Friday 12pm-2:30pm; Saturday & Sunday Closed ",
-    placeImage: "<div><img style='height:100px; width:180px' src='./assets/images/recommendedLocations/Pazzo_1200x630.jpg alt='Pazzo'></div>",
+    placeImage: "<div><img style='height:100px; width:180px' src='./assets/images/recommendedLocations/Pazzo_1200x630.jpg' alt='Pazzo'></div>",
     LatLng: [
       {
         lat: 51.226679,
