@@ -137,19 +137,24 @@ This website is saved in a repository on GitHub.
     * When the user clicks on a marker, they can also see the address of the place on the infoWindow. 
 
 * As a First Time Visitor, I want to be able to filter the information most interesting to me.
-    * When a user clicks on a specific button, it will filter the markers based on the occasion type. For example, if a user is looking for places to go to alone - he/she clicks "Alone Again, Naturally" and is shown recommended locations perfect for going to alone.
+    * When a user clicks on a specific button, it will filter the map markers based on the occasion type. For example, if a user is looking for places to go to on their own - he/she clicks "Alone Again, Naturally" and is shown recommended locations perfect for going to alone.
     * If a user wants to see all locations again, they have the option to click "All Locations" and the map will be repopulated with all the markers.
 
 * As a First Time Visitor, I want to be able to visit their social media pages to determine how big a following the company has & how trusted it is.
+    * In the footer, social media icons lead to the company's social media pages, as well as Tripadvisor.
 
 ### B. Returning Visitor Goals
 
 * As a Returning Visitor, I want to be able to get a variety of options available for the occasion I select. 
+    * Each occasion is linked to 5 different recommended locations. In total, the map is populated with 30 different spots, giving the user a lot of variety to choose from.
+
 * As a Returning Visitor, I want to find the best way to get in touch with the company with any questions or suggestions I may have.
+    * In the footer, the user can find the email address of the company to get in touch with suggestions or questions.
 
 ### C. Frequent Visitor Goals 
 
 * As a Frequent Visitor, I want to check to see if there are any newly added recommended locations that I can check out.
+    * At this point the user is familiar with the layout of the website & can recognize new locations or occasions that have been added to the map. 
 
 ### 3. Further Testing 
 
