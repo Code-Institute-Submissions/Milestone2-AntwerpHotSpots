@@ -161,8 +161,8 @@ without filling out a required field or checking the required boxes.
     * Both the deployed and developed versions of this website are identical.
 
 This site is hosted on GitHub Pages. 
-* You can view the live site [here](https://zahrasadiq.github.io/Milestone1-StreetFoodiesTour/)
-* The url for the site is: https://zahrasadiq.github.io/Milestone1-StreetFoodiesTour/
+* You can view the live site [here](https://zahrasadiq.github.io/Milestone2-AntwerpHotSpots/)
+* The url for the site is: https://zahrasadiq.github.io/Milestone2-AntwerpHotSpots/
 
 ---
 <span id="credits"></span>
